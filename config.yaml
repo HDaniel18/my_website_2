@@ -1,0 +1,118 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Portfolio website for HUGO DANIEL
+theme: forty
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  banner:
+    buttonText: Get Started
+    subtitle: |-
+      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Hugo, I come from France and I am an MFA student!
+  blog: {}
+  contact:
+    address:
+      - city: Paris
+        country: France
+        street: Rue du Regard
+        title: Address
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: hd.hugodaniel@gmail.com
+        title: Email
+    enable: yes
+    phone:
+      - phone: (44) 07706-645673 x1234
+        title: Phone
+  custom_css: []
+  custom_js: []
+  description: Your description
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+  favicon: favicon.ico
+  footer:
+    copyright: HD & Co
+    enable: yes
+    quicklinks:
+      - alt: HTML5 UP
+        text: 'Design: '
+        url: # https://www.html5up.net
+    social:
+      - icon: # fa-twitter
+        label: # Twitter
+        url: # https://www.twitter.com
+      - icon: fa-facebook
+        label: Facebook
+        url: https://www.facebook.com/hugo.daniel.714049
+      - icon: fa-instagram
+        label: # Instagram
+        url: # https://www.instagram.com
+      - icon: fa-github
+        label: GitHub
+        url: https://github.com/HDaniel18
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: https://www.linkedin.com/in/hugo-daniel-1805/
+  image: ''
+  name: Your Name
+  navigation:
+    button1:
+      - name: Get Started
+        url: blogs
+    button2:
+      - name: Log In
+        url: '#'
+    links:
+      - name: Home
+        url: '#'
+      - name: Blogs
+        url: blogs
+      - name: Generic Blog
+        url: blogs/ipsum
+      - name: Elements
+        url: elements.html
+    menu: Menu
+    subtitle: By HTML5 Up
+    title: Forty
+  tiles:
+    enable: yes
+    showcase:
+      - image: pic01.jpg
+        subtitle: Ipsum Dolor Sit Amet
+        title: Chelsea FC
+        url: https://www.chelseafc.com/en
+      - image: pic02.jpg
+        subtitle: Nisi Dominus Frustra
+        title: London
+        url: https://www.visitlondon.com
+      - image: pic03.jpg
+        subtitle: Domine dirige nos
+        title: Techcrunch
+        url: https://guce.techcrunch.com
+      - image: pic04.jpg
+        subtitle: #Nisl Sed Aliquam
+        title: London Business School
+        url: https://www.london.edu
+      - image: pic05.jpg
+        subtitle: To have a profound impact on the way the world does business
+        title: Financial Markets
+        url: https://www.bloomberg.com/europe
+      - image: pic06.jpg
+        subtitle: We work on purpose Come find yours
+        title: #Etiam
+        url: #blogs/ipsum
+  two:
+    buttonText: Get Started
+    enable: yes
+    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
+      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
+      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
+      amet pharetra et feugiat tempus."
+    title: Massa libero
+    url: blogs
