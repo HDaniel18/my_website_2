@@ -77,7 +77,7 @@ params:
 #        url: elements.html
     menu: Menu
     subtitle: By Hugo Daniel
-    title: HD
+    title: Hugo Daniel
   tiles:
     enable: yes
     showcase:
